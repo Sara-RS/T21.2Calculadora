@@ -1,0 +1,7 @@
+.root{
+    -fx-background-color: burlywood;
+}
+.txt {
+    -fx-font-style:"Comic Sans";
+    -fx-font-size: 15;
+}
